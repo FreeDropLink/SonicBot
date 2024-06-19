@@ -33,7 +33,11 @@ npm run start
 
 \*pastikan udah install node js
 
+
 Github : [FreeDropLink]
+
 (https://github.com/FreeDropLink)
+
 Twitter : @FreeDropLink
+
 Telegram : @FreeDropLink
